@@ -1,0 +1,11 @@
+En esta clase pude aprender sobre los diferente tipos de (clases, id, tipo de clases.) que puedo agregar al div en html, el porque debemos usar script module.
+La aplicacion, la logica del sofware se programa en javascript. El html sirve como intermediario entre el usuario y la aplicacion construida en javasript. Un programa en general se divide En 4 partes: 
+1-Conecciones y estructura logica.
+2-Entrada de datos.
+3-Procesamiento logico.
+4-Salida de datos o resultados.
+Javasript soporta la programacion funcional, la programcion modular y la programcion orientada a objetos.
+En javascript se pueden utilizar funciones nativas y funciones definidas por el programador/ora.
+Una funcion nativa es aquella que viene integrada con el lenguaje de programcion y solo necesita ser invocada mas no declarada.
+Una funcion definida por el programador es aquella que si necesita ser declarada, definida y programada para luego ser invocada.
+ 
